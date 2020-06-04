@@ -10,6 +10,7 @@ English translation below.
 Этот скрипт работает только на Windows 7, 8, 10 (хотя может и на MAC OS и Linux, но я не проверял).
 
 Установка:
+git clone https://github.com/MrDen228/Wi-Fi-AP.git
 Я думаю модули os и time у вас уже установлены по умолчанию.
 Запустите скрипт setup wizard.py и выполните действия которые там описаны.
 
@@ -35,6 +36,7 @@ It needs os and time modules.
 This script only works on Windows 7, 8, 10 (although it can also on MAC OS and Linux, but I have not tested it).
 
 Installation:
+git clone https://github.com/MrDen228/Wi-Fi-AP.git
 I think the os and time modules are already installed by default.
 Run the setup wizard.py script and follow the steps outlined there.
 
